@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Brainiac332
 - 👀 I’m a frontend developer, content creater and a graphic designer
 - 🌱 I’m currently learning flutter 
-- 💞️ I’m looking to collaborate on build a full working website
+- 💞️ I’m looking to collaborate on building a full working website
 - 📫 How to reach me @ sickink012@gmail.com
 
 <!---
